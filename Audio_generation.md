@@ -162,7 +162,7 @@ gan_loss_plot.png        → Generator & Discriminator loss curves
 | Name | Role | Institution |
 |------|------|--------------|
 | **Shiva Dubey** | Lead Developer | IIT Indore |
-| **Team Frequency Quest** | Research Collaborators | — |
+ — |
 
 ---
 
