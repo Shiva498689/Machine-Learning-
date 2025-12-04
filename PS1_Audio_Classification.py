@@ -93,7 +93,7 @@ class AudioDataset(Dataset):
 # ====================================================
 # PATHS
 # ====================================================
-# NOTE: Update these paths to your specific environment if not running in a Kaggle notebook
+
 train_path = "/kaggle/input/the-frequency-quest/the-frequency-quest - Copy/train/train"
 test_path = "/kaggle/input/the-frequency-quest/the-frequency-quest - Copy/test/test"
 
